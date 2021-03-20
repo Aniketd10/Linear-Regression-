@@ -1,4 +1,4 @@
-# Linear-Regression-
+# Linear-Regression-Task1
 
 Prediction using Supervised ML (Level - Beginner)
 Linear Regression with Python Scikit Learn
